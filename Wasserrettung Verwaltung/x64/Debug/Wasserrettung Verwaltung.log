@@ -1,0 +1,53 @@
+﻿  create.cpp
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\team.h(29,23): error C2061: Syntaxfehler: Bezeichner "create"
+  (Quelldatei „create.cpp“ wird kompiliert)
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.cpp(26,22): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Ek.cpp
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\team.h(29,23): error C2061: Syntaxfehler: Bezeichner "create"
+  (Quelldatei „Ek.cpp“ wird kompiliert)
+  
+  team.cpp
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(21,14): error C2065: "team": nichtdeklarierter Bezeichner
+  (Quelldatei „team.cpp“ wird kompiliert)
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(21,7): error C2923: „std::vector“: „team“ ist kein gültiges Vorlage-Typargument für Parameter „_Ty“.
+  (Quelldatei „team.cpp“ wird kompiliert)
+  C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(21,14):
+  Siehe Deklaration von "team"
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(21,7): error C2976: „std::vector“: Nicht genügend Vorlage-Argumente
+  (Quelldatei „team.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  Siehe Deklaration von "std::vector"
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(31,14): error C2065: "team": nichtdeklarierter Bezeichner
+  (Quelldatei „team.cpp“ wird kompiliert)
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(31,7): error C2923: „std::vector“: „team“ ist kein gültiges Vorlage-Typargument für Parameter „_Ty“.
+  (Quelldatei „team.cpp“ wird kompiliert)
+  C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(31,14):
+  Siehe Deklaration von "team"
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(31,7): error C2976: „std::vector“: Nicht genügend Vorlage-Argumente
+  (Quelldatei „team.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  Siehe Deklaration von "std::vector"
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\create.h(22,8): error C2512: "std::vector": Kein geeigneter Standardkonstruktor verfügbar
+  (Quelldatei „team.cpp“ wird kompiliert)
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\vector(436,7):
+  Siehe Deklaration von "std::vector"
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\team.cpp(90,30): error C2440: "Initialisierung": "std::vector" kann nicht in "std::vector<team,std::allocator<team>> &" konvertiert werden
+  Wasserrettung Verwaltung.cpp
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\team.h(29,23): error C2061: Syntaxfehler: Bezeichner "create"
+  (Quelldatei „Wasserrettung%20Verwaltung.cpp“ wird kompiliert)
+  
+C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\Wasserrettung Verwaltung.cpp(15,11): error C2660: "team::manage_teams": Funktion akzeptiert keine 1 Argumente
+  C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\team.h(29,10):
+  Siehe Deklaration von "team::manage_teams"
+  C:\Users\elias\source\repos\Wasserrettung Verwaltung\Wasserrettung Verwaltung\Wasserrettung Verwaltung.cpp(15,11):
+  bei Anpassung der Argumentliste "(create)"
+  
+  Code wird generiert...
